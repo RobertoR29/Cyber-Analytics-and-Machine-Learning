@@ -1,4 +1,4 @@
- # Cyber Analytics and Machine Learning
+# Cyber Analytics and Machine Learning
 
 ## Overview
 Applied machine learning techniques to security data by selecting a dataset, performing data preprocessing and feature engineering, and evaluating models for tasks such as classification and anomaly detection.
